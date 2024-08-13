@@ -1,8 +1,4 @@
 package sorting;
-
-public class bubble_sorted {
-}
-
 // bubbleSort.java
 // Пузырьковая сортировка
 // Запуск программы: C>java BubbleSortApp
